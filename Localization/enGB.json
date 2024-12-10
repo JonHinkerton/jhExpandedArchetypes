@@ -1,0 +1,100 @@
+{
+    "strings": {
+        "c8a7943c-d317-45c7-a01d-0b5498e1d8ea": {
+            "Text": "Disengage"
+        },
+		"36c928a1-e769-4ce3-916e-6ba035e151e4": {
+            "Text": "The Operator moves up to 3 squares without provoking attacks of opportunity and becomes the lowest priority target for opponents. Using this ability ends the Operator's movement for the turn."
+        },
+		"41f37936-20e5-4ec9-8e37-1246fffd3b96": {
+            "Text": "Marked Target"
+        },
+		"91418397-dd85-41b7-9279-92242bfdd7fd": {
+            "Text": "When all exploit stacks would be removed by an ability, one exploit stack will remain."
+        },
+		"af7f4d8d-55d1-4310-b1a7-ed94dd2c1ab2": {
+            "Text": "Vanish"
+        },
+		"9f23de27-0cce-469d-b7ab-c30d5226abcb": {
+            "Text": "When the Operator uses perfect spot they become the lowest priority target for enemies."
+        },
+		"aa771d30-f371-4bf7-b55a-0f66f4eacbc4": {
+            "Text": "Backstab"
+        },
+		"013ae2c9-39c9-4eca-bb35-61ab418cf934": {
+            "Text": "After an Operator has become the lowest priority target they gain +10% damage for the remainder of the turn."
+        },
+		"621f8481-8b66-4ca1-8361-86ee685ca0aa": {
+            "Text": "Pistol Whip"
+        },
+		"6729cd2f-21da-4488-b74b-22c04380ec78": {
+            "Text": "The Soldier makes a melee attack with a ranged weapon, dealing {uip|Damage|22d6c1b32a6d47f4899a370e28cf16f9} {g|Encyclopedia:DamageGlossary}damage{/g} instead of weapon damage and possibly pushing them back 1 square. This attack does not count toward the attack limit per turn."
+        },
+		"3b779166-1be2-488b-a1cb-834379b119ad": {
+            "Text": "Street Sweeper"
+        },
+		"04ee52b7-c43e-4c95-b062-cbaf73f06547": {
+            "Text": "The Soldier's shotgun shots push back targets even if they miss."
+        },
+		"102daa5c-54f4-459b-b691-3815ae613b17": {
+            "Text": "Gut Shot"
+        },
+		"fcc89cbd-aac7-45f1-a400-b238fd3b348a": {
+            "Text": "All of the Soldier's shotgun attacks against adjacent enemies automatically hit."
+        },
+		"38439013-bc79-4a94-b47e-a1bc949c9f95": {
+            "Text": "Butt Strike"
+        },
+		"12430c89-2d4f-49d4-8ece-daf1c7a4659b": {
+            "Text": "Using Pistol Whip with a two-handed weapon does 50% more damage."
+        },
+		"99fc5a04-190a-4549-a048-eb294a0f0b7a": {
+            "Text": "Deeds Not Words"
+        },
+		"1b8f61ad-f9a1-4574-815a-cb4e667b9145": {
+            "Text": "The Officer increases all attributes by their Fellowship Bonus until the end of the turn."
+        },
+		"258cd524-6784-40ff-acaf-6ce66980af3e": {
+            "Text": "Audacity"
+        },
+		"54f4cb6f-e044-40d5-a88c-65f66263c2a6": {
+            "Text": "If the Officer's Fellowship is higher than their Agility, their Dodge will be calculated from Fellowship instead."
+        },
+		"49fc1b27-6b06-4a26-8292-778058d9522b": {
+            "Text": "Shielded By Courage"
+        },
+		"5e09004b-516a-49ec-bf79-88fd1e78d923": {
+            "Text": "When the Officer uses Deeds Not Words they also gain +10% armor."
+        },
+		"9409a95b-eec6-4dcc-a195-b83de2719bdc": {
+            "Text": "Guide My Hand"
+        },
+		"e21f8416-abba-48c4-abec-fc7012a71313": {
+            "Text": "While under the effect of Deeds Not Words, the Officer's attacks cannot miss."
+        },
+		"fcc0019a-240e-44b6-b9c1-969eb034f47f": {
+            "Text": "Conflagration"
+        },
+		"fd93ef92-60d3-4e84-a5ee-4a182e40d4ae": {
+            "Text": "Enemies hit by the Warrior's Flame and Melta attacks suffer Ballistic Skill Bonus additional levels of Burning."
+        },
+		"43b89354-1d6a-42b6-8855-3662cf9023a9": {
+            "Text": "Pyromaniac"
+        },
+		"5f399f87-e123-4be5-beb0-89bed9ca941e": {
+            "Text": "When the Warrior uses a Flame or Melta weapon the first time in a round, they gain +1 AP."
+        },
+		"f4156b64-220a-48aa-8b95-ad68a8e96b62": {
+            "Text": "Enveloping Flames"
+        },
+		"fc2f1ba5-c525-469b-b287-4802d8aedde6": {
+            "Text": "The Warrior's Flame and Melta attacks gain Ballistic Skill Bonus/2 minimum damage."
+        },
+		"df87b88d-00a5-490f-9f41-09152d419b37": {
+            "Text": "Fuel for the Fire"
+        },
+		"b1fd07a1-17b7-4c09-b179-77d4d35e4634": {
+            "Text": "All burning targets within 2 cells of the Warrior suffer an instance of burning damage."
+        }
+    }
+}

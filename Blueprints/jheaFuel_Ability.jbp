@@ -1,0 +1,133 @@
+{
+  "AssetId": "1762effdc8cf43f0a60ad1dc47ceecec",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "66e032e5cf38801428940a1a0d14b946, AbilityEffectRunAction",
+        "name": "$AbilityEffectRunAction$7fb3baa5-c08e-4c4a-8d3f-e1be23b7e7bd",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "SavingThrowType": "Unknown",
+        "Actions": {
+          "Actions": [
+            {
+              "$type": "201fdfba40fb4b01878e7c56cf37d3cc, ContextActionDealDoTDamage",
+              "name": "$ContextActionDealDoTDamage$fd3d6b8c1a5a5fff80c60f3f828b45ee",
+              "AllTypes": false,
+              "Type": "Burning"
+            }
+          ]
+        }
+      },
+      {
+        "$type": "f8f9261ab3994be68bd4c1d12459402d, AbilityTargetsInPattern",
+        "name": "$AbilityTargetsInPattern$b35c9668-5883-4546-baed-94b355902367",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_PatternSettings": {
+          "Pattern": {
+            "m_Type": "Circle",
+            "m_Blueprint": null,
+            "m_Radius": 2,
+            "m_Angle": 0
+          },
+          "Targets": "Any",
+          "CastOnSameLevel": false,
+          "m_IgnoreLos": true,
+          "m_UseMeleeLos": false,
+          "m_IgnoreLevelDifference": true,
+          "m_Directional": false,
+          "CalculateAttackFromPatternCentre": false
+        },
+        "m_IncludeDead": false,
+        "m_IncludeCaster": false,
+        "m_IncludeNonUnitTargets": false,
+        "m_Condition": {
+          "Operation": "And",
+          "Conditions": []
+        }
+      }
+    ],
+    "Author": "LeonidTolochenko",
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "df87b88d-00a5-490f-9f41-09152d419b37",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "b1fd07a1-17b7-4c09-b179-77d4d35e4634",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+		"guid": "2f16da42223af374c907e157fd66977e",
+		"fileid": 21300000
+	},
+    "m_AllowNonContextActions": false,
+    "Type": "Spell",
+    "Range": "Personal",
+    "CustomRange": 0,
+    "MinRange": 0,
+    "ActionPointCost": 2,
+    "AbilityParamsSource": "None",
+    "PsychicPower": "Minor",
+    "VeilThicknessPointsToAdd": 1,
+    "ParamsSkill": "SkillAthletics",
+    "CooldownRounds": 1,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": false,
+    "CanTargetSelf": true,
+    "Hidden": false,
+    "DisableBestShootingPosition": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "ShowInDialogue": false,
+    "IsStarshipAbility": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Directional",
+    "CastInOffHand": false,
+    "UseOnMechadendrite": false,
+    "UsedMechadendrite": "Utility",
+    "m_TargetMapObjects": false,
+    "IsFreeAction": false,
+    "ShouldTurnToTarget": true,
+    "m_IsStratagem": false,
+    "UsingInThreateningArea": "CanUseWithoutAOO",
+    "UsingInOverwatchArea": "WillNotCauseAttack",
+    "CombatStateRestriction": "InCombatOnly",
+    "m_AbilityGroups": [
+      "!bp_8b63400505fc4b05bde2ecc18eb6754a"
+    ],
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": [],
+    "m_FXSettings": null,
+    "m_AbilityTag": "None",
+    "m_CombatHudCommandsOverride": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "TargetGuid": "1529e5a0e7844bf3bb8d0cc0501264d4",
+  "FieldOverrides": [],
+  "ArrayPatches": [],
+  "ComponentsPatches": [
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp\",\r\n    \"name\": \"$AddFeaturesToLevelUp$f38a7259-ffe2-4af6-b1cb-5efdba06dcb1\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Group\": \"ActiveAbility\",\r\n    \"m_Features\": [\r\n      \"!bp_d9e00160ce96479281c1abe9a26ac4e5\",\r\n      \"!bp_4d68f05c9aaf4620aa66f16cd4ba2efd\",\r\n      \"!bp_ec872eda7b1b40a08122b6330262a903\",\r\n      \"!bp_65f2a606086249969be80163be79e32c\",\r\n      \"!bp_9f2261fcdb7a494eb4a59966ac59c795\"\r\n    ]\r\n  }\r\n}",
+      "OperationType": "RemoveElement"
+    },
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp\",\r\n    \"name\": \"$AddFeaturesToLevelUp$26f159c4-6b19-4f06-9d43-d73c588b7f46\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Group\": \"Talent\",\r\n    \"m_Features\": [\r\n      \"!bp_014b6572e19946ae8bc74fc8cbe0f92b\",\r\n      \"!bp_241156c970804b319d24604b8b7ab31a\",\r\n      \"!bp_da74cc7556cf4c47b0c77ce4b6e132d2\",\r\n      \"!bp_c1b53a6c3da747a3b963c333cb9954c9\",\r\n      \"!bp_c0fa529cfe40414cbf1e71516c1f57a6\",\r\n      \"!bp_4c56ec5c399f4c70815dd5596b0e7b83\",\r\n      \"!bp_d28f54bddb8d46f3b0a3ed239d985492\",\r\n      \"!bp_5be08b3ea6fa4b82a3473de749e68488\",\r\n      \"!bp_1d6a3bacdb914699b83d564a1f22bfbc\",\r\n      \"!bp_9a0e7e64902e491baa29d60469eae188\",\r\n      \"!bp_ed9d1434d0fd41e2a382a2efe0a2018a\",\r\n      \"!bp_8341c8a0c79c4982a8cef0bbd2d1a2a2\",\r\n      \"!bp_070ab229e0cb4e88b564e7428e350d03\",\r\n      \"!bp_b53cc953c4064e8cb35e04ff271a179e\",\r\n      \"!bp_f8a2497eed104f889ac0d094d9b97162\",\r\n      \"!bp_5bd4a497a8e643ad8049edbd4fab77e0\",\r\n      \"!bp_45e2c72d4698481e9185fb922044496c\",\r\n      \"!bp_832dd8b02731461a881775696d937d71\",\r\n      \"!bp_dde11f867df84e61a67c2a444fe87a68\",\r\n      \"!bp_ec4f6ac63df24585843693f01dc69b1c\",\r\n      \"!bp_6bc40f52b5f747d0a4f453ae3fb9ab41\"\r\n    ]\r\n  }\r\n}",
+      "OperationType": "RemoveElement"
+    },
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp\",\r\n    \"name\": \"$AddFeaturesToLevelUp$d3b38c10-4ddc-4d82-9a1e-f97f79927be2\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Group\": \"Talent\",\r\n    \"m_Features\": [\r\n      \"!bp_014b6572e19946ae8bc74fc8cbe0f92b\",\r\n      \"!bp_241156c970804b319d24604b8b7ab31a\",\r\n      \"!bp_da74cc7556cf4c47b0c77ce4b6e132d2\",\r\n      \"!bp_c1b53a6c3da747a3b963c333cb9954c9\",\r\n      \"!bp_c0fa529cfe40414cbf1e71516c1f57a6\",\r\n      \"!bp_4c56ec5c399f4c70815dd5596b0e7b83\",\r\n      \"!bp_d28f54bddb8d46f3b0a3ed239d985492\",\r\n      \"!bp_5be08b3ea6fa4b82a3473de749e68488\",\r\n      \"!bp_1d6a3bacdb914699b83d564a1f22bfbc\",\r\n      \"!bp_9a0e7e64902e491baa29d60469eae188\",\r\n      \"!bp_ed9d1434d0fd41e2a382a2efe0a2018a\",\r\n      \"!bp_8341c8a0c79c4982a8cef0bbd2d1a2a2\",\r\n      \"!bp_070ab229e0cb4e88b564e7428e350d03\",\r\n      \"!bp_b53cc953c4064e8cb35e04ff271a179e\",\r\n      \"!bp_f8a2497eed104f889ac0d094d9b97162\",\r\n      \"!bp_5bd4a497a8e643ad8049edbd4fab77e0\",\r\n      \"!bp_45e2c72d4698481e9185fb922044496c\",\r\n      \"!bp_832dd8b02731461a881775696d937d71\",\r\n      \"!bp_dde11f867df84e61a67c2a444fe87a68\",\r\n      \"!bp_ec4f6ac63df24585843693f01dc69b1c\",\r\n      \"!bp_6bc40f52b5f747d0a4f453ae3fb9ab41\",\r\n      \"!bp_c0c3beb9205c4bab88dcc63c0d2bd799\",\r\n      \"!bp_0824474136594e8ab390a574c574804b\",\r\n      \"!bp_ad9c50fbab2e4df6bb64708a3ef8c8b0\"\r\n    ]\r\n  }\r\n}",
+      "OperationType": "InsertLast"
+    },
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp\",\r\n    \"name\": \"$AddFeaturesToLevelUp$966f5fdf-5027-4b1b-9463-7650b454e9f3\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Group\": \"ActiveAbility\",\r\n    \"m_Features\": [\r\n      \"!bp_d9e00160ce96479281c1abe9a26ac4e5\",\r\n      \"!bp_4d68f05c9aaf4620aa66f16cd4ba2efd\",\r\n      \"!bp_ec872eda7b1b40a08122b6330262a903\",\r\n      \"!bp_65f2a606086249969be80163be79e32c\",\r\n      \"!bp_9f2261fcdb7a494eb4a59966ac59c795\",\r\n      \"!bp_20118375128141a3b72d1762fe9f3c79\"\r\n    ]\r\n  }\r\n}",
+      "OperationType": "InsertLast"
+    }
+  ]
+}

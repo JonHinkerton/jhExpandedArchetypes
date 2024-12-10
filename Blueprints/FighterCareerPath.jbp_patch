@@ -1,0 +1,27 @@
+{
+  "TargetGuid": "974496d72fbe4329b438ee15cf004bd2",
+  "FieldOverrides": [],
+  "ArrayPatches": [],
+  "ComponentsPatches": [
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp\",\r\n    \"name\": \"$AddFeaturesToLevelUp$f38a7259-ffe2-4af6-b1cb-5efdba06dcb1\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Group\": \"ActiveAbility\",\r\n    \"m_Features\": [\r\n      \"!bp_92193f4629c84812825841ae1b01d1da\",\r\n      \"!bp_b5139f49a804401ba3b18ad19a021724\",\r\n      \"!bp_522ac908243643349438a6c4a00524f4\",\r\n      \"!bp_266b7e57a0344116b93277fa94d7c0d0\",\r\n      \"!bp_8016bc8096ff42638b138126d335b999\",\r\n      \"!bp_661caa4c6ffd40029a15d58f3241190f\"\r\n    ]\r\n  }\r\n}",
+      "OperationType": "RemoveElement"
+    },
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp\",\r\n    \"name\": \"$AddFeaturesToLevelUp$26f159c4-6b19-4f06-9d43-d73c588b7f46\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Group\": \"Talent\",\r\n    \"m_Features\": [\r\n      \"!bp_4cbeaff3e25f40128a1609430d5614de\",\r\n      \"!bp_ea7d851dd97441e2867fe29f23364f3c\",\r\n      \"!bp_1c61468f25fc410586a383c32050e971\",\r\n      \"!bp_930923ccf2e54ce781c064646fd25f35\",\r\n      \"!bp_5870ebea41f743e7b519e24f4ab97eb7\",\r\n      \"!bp_bd820fc0e97f49f6bbcd5e2dc5a0e747\",\r\n      \"!bp_1681e985d6164fdcb61168f6a7880df9\",\r\n      \"!bp_9570de551c9447cba38b5f2a70be9ddb\",\r\n      \"!bp_4b091ea00d5e4174baa6db32c1bf19eb\",\r\n      \"!bp_734d6289eef8464ca9b591000100c60a\",\r\n      \"!bp_fd0c75ffdb164dbaa284d354767b4f76\",\r\n      \"!bp_8b1920f555924a0dbe5caa88129061f0\",\r\n      \"!bp_f89d8dbd1c5d457ca8f92c9f5435a3e9\",\r\n      \"!bp_ed077781da354c4a82157ac934e0ebe6\",\r\n      \"!bp_7768fdcade1b4e94a66d095d21e3ab92\",\r\n      \"!bp_038401f387f3417dac61f8e16831c53f\",\r\n      \"!bp_b3a78f30d7094e809610bbb750fc9aee\",\r\n      \"!bp_f4ce17dcf66f4231bb58a580da943b53\",\r\n      \"!bp_8f5993cab35844cd8e0efbadc1c5dcbe\",\r\n      \"!bp_7e132b65948448b3893d8c3be9634c02\",\r\n      \"!bp_3e27b1fcf8ce471aa48228198aeba460\",\r\n      \"!bp_1c91b0d05e154b52a96fe825f796fcc0\",\r\n      \"!bp_9aefa8d7db3349358e23b2106578353b\",\r\n      \"!bp_e1c23c776d71496aaafea56495b6a460\",\r\n      \"!bp_606c4c7beb504cb690f914964aead591\"\r\n    ]\r\n  }\r\n}",
+      "OperationType": "RemoveElement"
+    },
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp\",\r\n    \"name\": \"$AddFeaturesToLevelUp$7104bb4b-e216-4ceb-b185-ec0316cf1485\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Group\": \"ActiveAbility\",\r\n    \"m_Features\": [\r\n      \"!bp_92193f4629c84812825841ae1b01d1da\",\r\n      \"!bp_b5139f49a804401ba3b18ad19a021724\",\r\n      \"!bp_522ac908243643349438a6c4a00524f4\",\r\n      \"!bp_266b7e57a0344116b93277fa94d7c0d0\",\r\n      \"!bp_8016bc8096ff42638b138126d335b999\",\r\n      \"!bp_661caa4c6ffd40029a15d58f3241190f\",\r\n      \"!bp_be20ce36f88e49628a0e5f2b790f9097\"\r\n    ]\r\n  }\r\n}",
+      "OperationType": "InsertLast"
+    },
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp\",\r\n    \"name\": \"$AddFeaturesToLevelUp$05c79755-0c6d-48c3-b72e-d4f5cf689b58\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Group\": \"Talent\",\r\n    \"m_Features\": [\r\n      \"!bp_4cbeaff3e25f40128a1609430d5614de\",\r\n      \"!bp_ea7d851dd97441e2867fe29f23364f3c\",\r\n      \"!bp_1c61468f25fc410586a383c32050e971\",\r\n      \"!bp_930923ccf2e54ce781c064646fd25f35\",\r\n      \"!bp_5870ebea41f743e7b519e24f4ab97eb7\",\r\n      \"!bp_bd820fc0e97f49f6bbcd5e2dc5a0e747\",\r\n      \"!bp_1681e985d6164fdcb61168f6a7880df9\",\r\n      \"!bp_9570de551c9447cba38b5f2a70be9ddb\",\r\n      \"!bp_4b091ea00d5e4174baa6db32c1bf19eb\",\r\n      \"!bp_734d6289eef8464ca9b591000100c60a\",\r\n      \"!bp_fd0c75ffdb164dbaa284d354767b4f76\",\r\n      \"!bp_8b1920f555924a0dbe5caa88129061f0\",\r\n      \"!bp_f89d8dbd1c5d457ca8f92c9f5435a3e9\",\r\n      \"!bp_ed077781da354c4a82157ac934e0ebe6\",\r\n      \"!bp_7768fdcade1b4e94a66d095d21e3ab92\",\r\n      \"!bp_038401f387f3417dac61f8e16831c53f\",\r\n      \"!bp_b3a78f30d7094e809610bbb750fc9aee\",\r\n      \"!bp_f4ce17dcf66f4231bb58a580da943b53\",\r\n      \"!bp_8f5993cab35844cd8e0efbadc1c5dcbe\",\r\n      \"!bp_7e132b65948448b3893d8c3be9634c02\",\r\n      \"!bp_3e27b1fcf8ce471aa48228198aeba460\",\r\n      \"!bp_1c91b0d05e154b52a96fe825f796fcc0\",\r\n      \"!bp_9aefa8d7db3349358e23b2106578353b\",\r\n      \"!bp_e1c23c776d71496aaafea56495b6a460\",\r\n      \"!bp_606c4c7beb504cb690f914964aead591\",\r\n      \"!bp_0fb7bdceccfc4061b0afe63838767611\",\r\n      \"!bp_248fe3da877d4073adb1df60175cdab5\",\r\n      \"!bp_6317d4efab074cd5961c58e28ee7f12a\"\r\n    ]\r\n  }\r\n}",
+      "OperationType": "InsertLast"
+    }
+  ]
+}
