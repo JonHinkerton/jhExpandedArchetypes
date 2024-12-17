@@ -1,0 +1,130 @@
+{
+    "strings": {
+        "c8a7943c-d317-45c7-a01d-0b5498e1d8ea": {
+            "Text": "Desconectar"
+        },
+        "36c928a1-e769-4ce3-916e-6ba035e151e4": {
+            "Text": "El Operador se mueve hasta 3 casillas sin provocar ataques de oportunidad y se convierte en el objetivo de menor prioridad para los oponentes. Usar esta habilidad termina el movimiento del Operador durante el turno."
+        },
+        "41f37936-20e5-4ec9-8e37-1246fffd3b96": {
+            "Text": "Objetivo Marcado"
+        },
+        "91418397-dd85-41b7-9279-92242bfdd7fd": {
+            "Text": "Cuando todas las acumulaciones de explotación se eliminarían con una habilidad, una acumulación de explotación permanecerá."
+        },
+        "af7f4d8d-55d1-4310-b1a7-ed94dd2c1ab2": {
+            "Text": "Desaparecer"
+        },
+        "9f23de27-0cce-469d-b7ab-c30d5226abcb": {
+            "Text": "Cuando el Operador usa Punto Perfecto, se convierte en el objetivo de menor prioridad para los enemigos."
+        },
+        "aa771d30-f371-4bf7-b55a-0f66f4eacbc4": {
+            "Text": "Apuñalada por la Espalda"
+        },
+        "013ae2c9-39c9-4eca-bb35-61ab418cf934": {
+            "Text": "Después de que un Operador se convierta en el objetivo de menor prioridad, gana +10% de daño por el resto del turno."
+        },
+        "621f8481-8b66-4ca1-8361-86ee685ca0aa": {
+            "Text": "Golpe con Pistola"
+        },
+        "6729cd2f-21da-4488-b74b-22c04380ec78": {
+            "Text": "El Soldado realiza un ataque cuerpo a cuerpo con un arma a distancia, causando {uip|Damage|22d6c1b32a6d47f4899a370e28cf16f9} {g|Encyclopedia:DamageGlossary}daño{/g} en lugar de daño de arma y posiblemente empujándolos 1 casilla hacia atrás. Este ataque no cuenta para el límite de ataques por turno."
+        },
+        "3b779166-1be2-488b-a1cb-834379b119ad": {
+            "Text": "Barrido Callejero"
+        },
+        "04ee52b7-c43e-4c95-b062-cbaf73f06547": {
+            "Text": "Los disparos de escopeta del Guerrero empujan a los objetivos incluso si fallan."
+        },
+        "102daa5c-54f4-459b-b691-3815ae613b17": {
+            "Text": "Disparo al Abdomen"
+        },
+        "fcc89cbd-aac7-45f1-a400-b238fd3b348a": {
+            "Text": "Todos los ataques con escopeta del Guerrero contra enemigos adyacentes impactan automáticamente."
+        },
+        "6158b4e7-0e05-4e72-a4bb-dbd6f86d15a5": {
+            "Text": "Empujar y Tirar"
+        },
+        "51d032a2-69ba-47bc-ac5b-7f0a3e92d06a": {
+            "Text": "El costo de los ataques del Guerrero con una escopeta se reduce en -1 AP."
+        },
+        "38439013-bc79-4a94-b47e-a1bc949c9f95": {
+            "Text": "Golpe de Culata"
+        },
+        "12430c89-2d4f-49d4-8ece-daf1c7a4659b": {
+            "Text": "Usar Golpe con Pistola con un arma de dos manos hace un 50% más de daño."
+        },
+        "99fc5a04-190a-4549-a048-eb294a0f0b7a": {
+            "Text": "Hechos, No Palabras"
+        },
+        "1b8f61ad-f9a1-4574-815a-cb4e667b9145": {
+            "Text": "El Oficial aumenta todos los atributos en función de su Bono de Compañerismo hasta el final del turno."
+        },
+        "258cd524-6784-40ff-acaf-6ce66980af3e": {
+            "Text": "Audacia"
+        },
+        "54f4cb6f-e044-40d5-a88c-65f66263c2a6": {
+            "Text": "Si el Compañerismo del Oficial es mayor que su Agilidad, su Esquiva se calculará en función del Compañerismo en su lugar."
+        },
+        "49fc1b27-6b06-4a26-8292-778058d9522b": {
+            "Text": "Protegido por el Coraje"
+        },
+        "5e09004b-516a-49ec-bf79-88fd1e78d923": {
+            "Text": "Cuando el Oficial usa Hechos, No Palabras también gana +10% de armadura."
+        },
+        "9409a95b-eec6-4dcc-a195-b83de2719bdc": {
+            "Text": "Guía mi Mano"
+        },
+        "e21f8416-abba-48c4-abec-fc7012a71313": {
+            "Text": "Mientras esté bajo el efecto de Hechos, No Palabras, los ataques del Oficial no pueden fallar."
+        },
+        "fcc0019a-240e-44b6-b9c1-969eb034f47f": {
+            "Text": "Conflagración"
+        },
+        "fd93ef92-60d3-4e84-a5ee-4a182e40d4ae": {
+            "Text": "Los enemigos alcanzados por los ataques de Llama y Melta del Guerrero sufren niveles adicionales de Quemadura igual al Bono de Habilidad Balística."
+        },
+        "43b89354-1d6a-42b6-8855-3662cf9023a9": {
+            "Text": "Pirómano"
+        },
+        "5f399f87-e123-4be5-beb0-89bed9ca941e": {
+            "Text": "Cuando el Guerrero usa un arma de Llama o Melta por primera vez en una ronda, gana +1 AP."
+        },
+        "f4156b64-220a-48aa-8b95-ad68a8e96b62": {
+            "Text": "Llamas Envolventes"
+        },
+        "fc2f1ba5-c525-469b-b287-4802d8aedde6": {
+            "Text": "Los ataques de Llama y Melta del Guerrero ganan un daño mínimo igual al Bono de Habilidad Balística/2."
+        },
+        "df87b88d-00a5-490f-9f41-09152d419b37": {
+            "Text": "Combustible para el Fuego"
+        },
+        "b1fd07a1-17b7-4c09-b179-77d4d35e4634": {
+            "Text": "Todos los objetivos en llamas dentro de 2 casillas del Guerrero sufren una instancia de daño por quemadura."
+        },
+        "a154e728-6bba-4033-9f63-151aeb8cb3e1": {
+            "Text": "Barrido"
+        },
+        "068e131d-6760-44b2-9b05-f274fb53f5d3": {
+            "Text": "Un enemigo adyacente debe realizar una tirada de salvación de fortaleza con una penalización igual al doble del bono de fuerza del luchador o caer al suelo por 1 ronda."
+        },
+        "d9a0851e-d8c9-403a-b670-382ee3e6dde0": {
+            "Text": "Disparo Sin Mira"
+        },
+        "a33d9b90-9176-4d5f-bb48-ec047c157b0f": {
+            "Text": "El costo de un Disparo de Francotirador se reduce en -1 AP."
+        },
+        "1ffd7b1d-f9bd-49cc-9e83-001b07e5a61f": {
+            "Text": "Fuego de Supresión"
+        },
+        "9337ca1a-6160-4f87-98c1-0e01e4dfdc29": {
+            "Text": "Los objetivos alcanzados por los ataques con armas pesadas del Soldado quedan ralentizados."
+        },
+        "8c4f5406-dede-4161-b7b2-9ffb3298d1ca": {
+            "Text": "Escudo de Armas"
+        },
+        "fd78b915-8531-417c-9c06-00f8d9c3b89c": {
+            "Text": "Mientras usa un arma pesada, el Soldado gana un bono de cobertura del 10%."
+        }
+    }
+}

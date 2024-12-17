@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Manifest:
     UniqueName: jhExpandedArchetypes
-    Version: 1.0
+    Version: 1.1
     DisplayName: Expanded Archetypes
     Description: New abilities and talents for RT archetypes
     Author: jonhinkerton

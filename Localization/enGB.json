@@ -34,13 +34,19 @@
             "Text": "Street Sweeper"
         },
 		"04ee52b7-c43e-4c95-b062-cbaf73f06547": {
-            "Text": "The Soldier's shotgun shots push back targets even if they miss."
+            "Text": "The Warrior's shotgun shots push back targets even if they miss."
         },
 		"102daa5c-54f4-459b-b691-3815ae613b17": {
             "Text": "Gut Shot"
         },
 		"fcc89cbd-aac7-45f1-a400-b238fd3b348a": {
-            "Text": "All of the Soldier's shotgun attacks against adjacent enemies automatically hit."
+            "Text": "All of the Warrior's shotgun attacks against adjacent enemies automatically hit."
+        },
+        "6158b4e7-0e05-4e72-a4bb-dbd6f86d15a5": {
+            "Text": "Push Pull"
+        },
+        "51d032a2-69ba-47bc-ac5b-7f0a3e92d06a": {
+            "Text": "The cost of a Warrior's attacks with a shotgun are reduced by -1 AP"
         },
 		"38439013-bc79-4a94-b47e-a1bc949c9f95": {
             "Text": "Butt Strike"
@@ -52,7 +58,7 @@
             "Text": "Deeds Not Words"
         },
 		"1b8f61ad-f9a1-4574-815a-cb4e667b9145": {
-            "Text": "The Officer increases all attributes by their Fellowship Bonus until the end of the turn."
+            "Text": "The Officer increases all attributes by twice their Fellowship Bonus until the end of the turn."
         },
 		"258cd524-6784-40ff-acaf-6ce66980af3e": {
             "Text": "Audacity"
@@ -95,6 +101,36 @@
         },
 		"b1fd07a1-17b7-4c09-b179-77d4d35e4634": {
             "Text": "All burning targets within 2 cells of the Warrior suffer an instance of burning damage."
+        },
+        "a154e728-6bba-4033-9f63-151aeb8cb3e1": {
+            "Text": "Sweep"
+        },
+        "068e131d-6760-44b2-9b05-f274fb53f5d3": {
+            "Text": "The adjacent target must make a fortitude save with a penalty equal to twice the fighter's strength bonus or fall prone."
+        },
+        "d9a0851e-d8c9-403a-b670-382ee3e6dde0": {
+            "Text": "No Scope"
+        },
+        "a33d9b90-9176-4d5f-bb48-ec047c157b0f": {
+            "Text": "The cost of a Deadeye Shot is reduced by -1 AP"
+        },
+        "1ffd7b1d-f9bd-49cc-9e83-001b07e5a61f": {
+            "Text": "Suppressive Fire"
+        },
+        "9337ca1a-6160-4f87-98c1-0e01e4dfdc29": {
+            "Text": "Targets hit by the Soldier's heavy weapon attacks are slowed."
+        },
+        "8c4f5406-dede-4161-b7b2-9ffb3298d1ca": {
+            "Text": "Gun Shield"
+        },
+        "fd78b915-8531-417c-9c06-00f8d9c3b89c": {
+            "Text": "While wielding a heavy weapon, the Soldier gains +10 armor."
+        },
+        "0423fd7a-e136-46ac-9907-251ace3397a2": {
+            "Text": "Noosphere Hacker"
+        },
+        "13fa01c3-28a6-4a1b-8243-e6db37619406": {
+            "Text": "The Operative gains +10 to Tech Use and Logic."
         }
     }
 }
