@@ -1,0 +1,257 @@
+{
+  "AssetId": "43d3f4d287b8442ea191507c852a3a52",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "f9bf4ae9ccd847689d5cdf2e86bc51ca, PropertyCalculatorComponent",
+        "name": "$PropertyCalculatorComponent$df386f8c-f928-4681-9ea1-cc23dcdd32be",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Name": "Value1",
+        "SaveToContext": "No",
+        "Value": {
+          "Operation": "Sum",
+          "TargetType": "CurrentEntity",
+          "FailSilentlyIfNoTarget": false,
+          "Getters": [
+            {
+              "$type": "71215231c9644775bd7120d21371ff31, DealtDamageGetter",
+              "name": "$DealtDamageGetter$973a493a-f751-41e9-8cc2-be9b1a93a929",
+              "Settings": {
+                "Progression": "Div2",
+                "m_CustomProgression": [],
+                "m_StartLevel": 0,
+                "m_StepLevel": 0,
+                "Negate": false,
+                "Limit": "None",
+                "Min": 0,
+                "Max": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$type": "6d519a34c3e747bfa7d858a3c9a4b978, WarhammerKillTrigger",
+        "name": "$WarhammerKillTrigger$c95e8992-4dfc-4a25-bd9c-1ab1c03ea525",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Restrictions": {
+          "Property": {
+            "Operation": "Sum",
+            "TargetType": "CurrentEntity",
+            "FailSilentlyIfNoTarget": false,
+            "Getters": [
+              {
+                "$type": "4a65f37aabb64aaa8d459f405fb5e369, CheckAbilityWeaponTwoHandedGetter",
+                "name": "$CheckAbilityWeaponTwoHandedGetter$5c9a0ce1a31c430898fc8c982f04351e",
+                "Settings": {
+                  "Progression": "AsIs",
+                  "m_CustomProgression": [],
+                  "m_StartLevel": 0,
+                  "m_StepLevel": 0,
+                  "Negate": false,
+                  "Limit": "None",
+                  "Min": 0,
+                  "Max": 0
+                }
+              },
+              {
+                "$type": "323b0da7a07e4dc7b3e5311d3c609ff6, CheckAbilityWeaponCategoryGetter",
+                "name": "$CheckAbilityWeaponCategoryGetter$33c9a6c8098247809edae2da100dd331",
+                "Settings": {
+                  "Progression": "AsIs",
+                  "m_CustomProgression": [],
+                  "m_StartLevel": 0,
+                  "m_StepLevel": 0,
+                  "Negate": false,
+                  "Limit": "None",
+                  "Min": 0,
+                  "Max": 0
+                },
+                "Categories": [
+                  "Melee"
+                ]
+              }
+            ]
+          }
+        },
+        "ActionsOnKill": {
+          "Actions": [
+            {
+              "$type": "2dcc60a5b076f0047b982e9d4c04b226, ContextActionOnRandomTargetsAround",
+              "name": "$ContextActionOnRandomTargetsAround$3a1d3a24fb0c4de7afad2aeccd132d1c",
+              "OnEnemies": true,
+              "OnlyAllies": false,
+              "Actions": {
+                "Actions": [
+                  {
+                    "$type": "bdc93cbacbdc05843a933659f15c1302, ContextActionDealDamage",
+                    "name": "$ContextActionDealDamage$eaa5fef296994fae97d37c31fbf3c4b4",
+                    "DamageType": {
+                      "Type": "Impact"
+                    },
+                    "UseDiceForDamage": false,
+                    "ReadPreRolledFromSharedValue": false,
+                    "PreRolledSharedValue": "Damage",
+                    "Value": {
+                      "DiceType": "Zero",
+                      "DiceCountValue": {
+                        "ValueType": "Simple",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null,
+                        "PropertyName": "Value1"
+                      },
+                      "BonusValue": {
+                        "ValueType": "Simple",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null,
+                        "PropertyName": "Value1"
+                      }
+                    },
+                    "MinDamage": {
+                      "ValueType": "Simple",
+                      "Value": 0,
+                      "ValueRank": "Default",
+                      "ValueShared": "Damage",
+                      "Property": "None",
+                      "m_CustomProperty": null,
+                      "PropertyName": "Value1"
+                    },
+                    "MaxDamage": {
+                      "ValueType": "Simple",
+                      "Value": 0,
+                      "ValueRank": "Default",
+                      "ValueShared": "Damage",
+                      "Property": "None",
+                      "m_CustomProperty": null,
+                      "PropertyName": "Value1"
+                    },
+                    "BonusDamage": {
+                      "ValueType": "CasterNamedProperty",
+                      "Value": 0,
+                      "ValueRank": "Default",
+                      "ValueShared": "Damage",
+                      "Property": "None",
+                      "m_CustomProperty": null,
+                      "PropertyName": "Value1"
+                    },
+                    "Penetration": {
+                      "DiceType": "Zero",
+                      "DiceCountValue": {
+                        "ValueType": "Simple",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null,
+                        "PropertyName": "Value1"
+                      },
+                      "BonusValue": {
+                        "ValueType": "Simple",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null,
+                        "PropertyName": "Value1"
+                      }
+                    },
+                    "Half": false,
+                    "IsAoE": false,
+                    "m_Weapon": null,
+                    "WriteResultToSharedValue": false,
+                    "ResultSharedValue": "Damage",
+                    "DoNotUseCrModifier": false
+                  }
+                ]
+              },
+              "NumberOfTargets": 1,
+              "TilesRadius": 1,
+              "LowestWounds": false,
+              "HighestWounds": false,
+              "AffectDead": false,
+              "m_FilterNoFact": null,
+              "m_FilterHasFact": null
+            }
+          ]
+        },
+        "ActionsOnSurvive": {
+          "Actions": []
+        },
+        "ActionsOnTarget": true,
+        "RefundActionPointsOnKill": false,
+        "RefundActionPointsOnSurvive": false,
+        "ResetCooldownOnKill": false,
+        "ResetCooldownOnSurvive": false,
+        "RemoveOnKill": false,
+        "RemoveOnSurvive": false,
+        "OnlyEnemyKill": false,
+        "m_AffectedGroup": null,
+        "m_FilterFacts": [],
+        "ContextPropertyName": "Value1",
+        "PropertyToSave": "DamageOverflow"
+      }
+    ],
+    "Author": "Unknown",
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_AllowNonContextActions": false,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Ranks": 1,
+    "Prerequisites": {
+      "Composition": "And",
+      "List": []
+    },
+    "FeatureTypes": [],
+    "TalentIconInfo": {
+      "AllGroups": "Damage",
+      "MainGroup": "Damage"
+    },
+    "m_Acronym": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "ShowInDialogue": false,
+    "IsStarshipFeature": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -121,21 +121,6 @@
         "DoNotApplyOnInterrupts": false
       },
       {
-        "$type": "d7bd163f6687c15448553fba4ad389ac, ActionsOnBuffApply",
-        "name": "$ActionsOnBuffApply$bae421e3-160d-4aaf-8c84-81c9091187f7",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "m_GainedFact": "!bp_33f073274f2f460195b4989965e8ad1d",
-        "Actions": {
-          "Actions": []
-        },
-        "UseFactContext": false
-      },
-      {
         "$type": "6e5523c38f556614fb970220b86809a8, AddBuffActions",
         "name": "$AddBuffActions$bd19a557-1406-4879-826d-f805c49c7734",
         "m_Flags": 0,
@@ -216,6 +201,52 @@
               "IfFalse": {
                 "Actions": []
               }
+            },
+            {
+              "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+              "name": "$ContextActionApplyBuff$62e9f24c862f4b969adf282283bd95c6",
+              "m_Buff": "!bp_33f073274f2f460195b4989965e8ad1d",
+              "BuffEndCondition": "CombatEnd",
+              "Permanent": false,
+              "DurationValue": {
+                "BonusValue": {
+                  "ValueType": "Simple",
+                  "Value": 0,
+                  "ValueRank": "Default",
+                  "ValueShared": "Damage",
+                  "Property": "None",
+                  "m_CustomProperty": null,
+                  "PropertyName": "Value1"
+                },
+                "RoundsValue": {
+                  "ValueType": "Simple",
+                  "Value": 1,
+                  "ValueRank": "Default",
+                  "ValueShared": "Damage",
+                  "Property": "None",
+                  "m_CustomProperty": null,
+                  "PropertyName": "Value1"
+                }
+              },
+              "ToCaster": false,
+              "AsChild": false,
+              "SameDuration": false,
+              "Ranks": {
+                "ValueType": "Simple",
+                "Value": 0,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "None",
+                "m_CustomProperty": null,
+                "PropertyName": "Value1"
+              },
+              "ActionsOnApply": {
+                "Actions": []
+              },
+              "ActionsOnImmune": {
+                "Actions": []
+              },
+              "AddFactSource": false
             }
           ]
         },

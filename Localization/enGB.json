@@ -34,19 +34,19 @@
             "Text": "Street Sweeper"
         },
 		"04ee52b7-c43e-4c95-b062-cbaf73f06547": {
-            "Text": "The Warrior's shotgun shots push back targets even if they miss."
+            "Text": "The Soldier's shotgun shots push back targets even if they miss."
         },
 		"102daa5c-54f4-459b-b691-3815ae613b17": {
             "Text": "Gut Shot"
         },
 		"fcc89cbd-aac7-45f1-a400-b238fd3b348a": {
-            "Text": "All of the Warrior's shotgun attacks against adjacent enemies automatically hit."
+            "Text": "All of the Soldier's shotgun attacks against adjacent enemies automatically hit."
         },
         "6158b4e7-0e05-4e72-a4bb-dbd6f86d15a5": {
             "Text": "Push Pull"
         },
         "51d032a2-69ba-47bc-ac5b-7f0a3e92d06a": {
-            "Text": "The cost of a Warrior's attacks with a shotgun are reduced by -1 AP"
+            "Text": "The cost of a Soldier's attacks with a shotgun are reduced by -1 AP"
         },
 		"38439013-bc79-4a94-b47e-a1bc949c9f95": {
             "Text": "Butt Strike"
@@ -106,7 +106,7 @@
             "Text": "Sweep"
         },
         "068e131d-6760-44b2-9b05-f274fb53f5d3": {
-            "Text": "The adjacent target must make a fortitude save with a penalty equal to twice the fighter's strength bonus or fall prone."
+            "Text": "An adjacent target must make a fortitude save with a penalty equal to twice the fighter's strength bonus or fall prone."
         },
         "d9a0851e-d8c9-403a-b670-382ee3e6dde0": {
             "Text": "No Scope"
@@ -121,7 +121,7 @@
             "Text": "Targets hit by the Soldier's heavy weapon attacks are slowed."
         },
         "8c4f5406-dede-4161-b7b2-9ffb3298d1ca": {
-            "Text": "Gun Shield"
+            "Text": "Big Guns"
         },
         "fd78b915-8531-417c-9c06-00f8d9c3b89c": {
             "Text": "While wielding a heavy weapon, the Soldier gains +10 armor."
@@ -131,6 +131,18 @@
         },
         "13fa01c3-28a6-4a1b-8243-e6db37619406": {
             "Text": "The Operative gains +10 to Tech Use and Logic."
+        },
+        "0220d10e-cf62-43f2-89f9-84828701b6a0": {
+            "Text": "Cleave"
+        },
+        "8abfeea6-c834-4fb6-8d94-a98c90860f26": {
+            "Text": "Killing a target with a two handed weapon causes 50% damage to another enemy within 1 cell of the target."
+        },
+        "4596804d-f9d0-43f8-b98e-c66f1f5e635c": {
+            "Text": "Overhead Smash"
+        },
+        "5c0c64e8-9c40-48b6-80a7-74aef949a56b": {
+            "Text": "Critical hits with two handed weapons deal an additional 10% armor penetration."
         }
     }
 }

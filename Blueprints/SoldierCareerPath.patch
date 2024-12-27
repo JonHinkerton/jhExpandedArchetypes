@@ -1,0 +1,342 @@
+{
+  "Components": [
+    {
+      "PatchType": "Relocate",
+      "Target": "$AddFeaturesToLevelUp$2270b395-e498-40fa-8011-1ff53ce3a3a7",
+      "InsertAfterTarget": null
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": "$AddFeaturesToLevelUp$d674ba8d-5364-4399-a03d-bb4f4db63942",
+      "InsertAfterTarget": "$AddFeaturesToLevelUp$2270b395-e498-40fa-8011-1ff53ce3a3a7"
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": "$AddFeaturesToLevelUp$ddffac20-b44e-4455-9b47-a34f102f2603",
+      "InsertAfterTarget": "$AddFeaturesToLevelUp$d674ba8d-5364-4399-a03d-bb4f4db63942"
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": "$CareerPathUILayout$fbf457eb-9fbf-4837-92d5-72d4d88546f4",
+      "InsertAfterTarget": "$AddFeaturesToLevelUp$ddffac20-b44e-4455-9b47-a34f102f2603"
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": "$CareerPathUIMetaData$0abd7e9e-7d88-4686-b262-d47ccd82cabd",
+      "InsertAfterTarget": "$CareerPathUILayout$fbf457eb-9fbf-4837-92d5-72d4d88546f4"
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": "$AddFacts$ce56cba1-fe42-4ee4-b10d-c74ee2b77bdf",
+      "InsertAfterTarget": "$CareerPathUIMetaData$0abd7e9e-7d88-4686-b262-d47ccd82cabd"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$b00b6840-0ad0-4344-ac3e-7887ea78bb17",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "ActiveAbility",
+        "m_Features": [
+          "!bp_f509573bad85478b8f36e6bd97c943e4",
+          "!bp_b8e87a8bf8964ff099f1e0331341df47",
+          "!bp_1d48dfb6002a48f68bee0b86c4b56dc4",
+          "!bp_27dc9a14aaca464a901dc6242123c154",
+          "!bp_ba56eecb14dc4793a604c28017307500",
+          "!bp_d113811dde54446989ea0c431dfa816b",
+          "!bp_8638221f9caf46649cefcbd7574804d1"
+        ]
+      },
+      "InsertAfterTarget": "$AddFacts$ce56cba1-fe42-4ee4-b10d-c74ee2b77bdf"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$c0033ae9-4fff-45a5-978e-97b2be1e5540",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Talent",
+        "m_Features": [
+          "!bp_91932ac8a5794d5cb9ed539bf7d528a2",
+          "!bp_3feb70e54f244b0e96053909f4533606",
+          "!bp_6268f2eb04fe44d5b1ca79c9f25a8637",
+          "!bp_2f173f0d030d45ecbc1759911b5b282a",
+          "!bp_82483452ef5c4ab69ac78eb05dc6771b",
+          "!bp_6baee3b4e743439ea979313fe5f74747",
+          "!bp_88e62a99868842bd9554971820fbd95b",
+          "!bp_09204d361b6d4fb786842e43ac1979db",
+          "!bp_b2ec248dacf24d6ab6b29d368dbc216d",
+          "!bp_dc895665ee774a4684e9c401b3726225",
+          "!bp_1c82d5f20dfb4e8ab89f78a4adad66a5",
+          "!bp_bcdbde555de5492abae33d0dc285c956",
+          "!bp_ab891e29e2444ac0adc08e434d4ffa8c",
+          "!bp_927c143a334f4e61858ae73281893a6d",
+          "!bp_36c6d130bad64e7d813f66738ecea134",
+          "!bp_09fd2646363b443fa397468ea97ddd91",
+          "!bp_f367c24c77ed476b9cdc0688e505596b",
+          "!bp_4d291513354948f39bacde075a4fa130",
+          "!bp_8a4b29ac74844767b20a236f44ac02ee",
+          "!bp_67b3e8fed7c84b49a144efc2b1260e52",
+          "!bp_2af4e3ebceb04b88ae4af963856b83a7",
+          "!bp_ec180d57cee74c3ea7dd08b9b4b9e36c",
+          "!bp_5b0e024068044f2b954566d759d72284",
+          "!bp_5c85740ac93640dba600f7c8b65fe76a",
+          "!bp_ceb12d98be594c22b8560032391be430",
+          "!bp_608102d380fa454d8aaa363cf25f3ccd",
+          "!bp_6a0c2bd312b64cad8d46ec73f8054b74",
+          "!bp_d19e171a51cb426a80b482d9f70718ed"
+        ]
+      },
+      "InsertAfterTarget": "$AddFeaturesToLevelUp$b00b6840-0ad0-4344-ac3e-7887ea78bb17"
+    },
+    {
+      "PatchType": "RemoveFromEnd",
+      "Target": "$AddFeaturesToLevelUp$f38a7259-ffe2-4af6-b1cb-5efdba06dcb1"
+    },
+    {
+      "PatchType": "RemoveFromEnd",
+      "Target": "$AddFeaturesToLevelUp$26f159c4-6b19-4f06-9d43-d73c588b7f46"
+    }
+  ],
+  "m_Description": {
+    "m_OwnerString": "a0f62d7e74bf4335a32fe385404c1bc4"
+  },
+  "RankEntries": [
+    {
+      "PatchType": "Insert",
+      "NewElement": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_957644aa4c324b099cd41d135ab05557"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_385b380a81d941baac49e56cb7123085"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [
+          "!bp_618bd712c61d4b2d89e55ecf5f3a6348"
+        ],
+        "m_Selections": [
+          "!bp_c1f309f9c3e54f019bac7485fa5d2e6d"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_957644aa4c324b099cd41d135ab05557"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_946b4ecd52904a07bb4984bc112c7e76",
+          "!bp_c1f309f9c3e54f019bac7485fa5d2e6d"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [
+          "!bp_618bd712c61d4b2d89e55ecf5f3a6348"
+        ],
+        "m_Selections": [
+          "!bp_c1f309f9c3e54f019bac7485fa5d2e6d"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_946b4ecd52904a07bb4984bc112c7e76",
+          "!bp_957644aa4c324b099cd41d135ab05557"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_946b4ecd52904a07bb4984bc112c7e76",
+          "!bp_c1f309f9c3e54f019bac7485fa5d2e6d"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_946b4ecd52904a07bb4984bc112c7e76",
+          "!bp_2b1f502ae314466097a1541c3d2efe25"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_946b4ecd52904a07bb4984bc112c7e76",
+          "!bp_957644aa4c324b099cd41d135ab05557"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_c1f309f9c3e54f019bac7485fa5d2e6d",
+          "!bp_385b380a81d941baac49e56cb7123085"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_946b4ecd52904a07bb4984bc112c7e76",
+          "!bp_2b1f502ae314466097a1541c3d2efe25"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_a09ebb084bb846898e25f855be0e7e53"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_c1f309f9c3e54f019bac7485fa5d2e6d",
+          "!bp_385b380a81d941baac49e56cb7123085"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_c1f309f9c3e54f019bac7485fa5d2e6d",
+          "!bp_946b4ecd52904a07bb4984bc112c7e76"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_a09ebb084bb846898e25f855be0e7e53"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_957644aa4c324b099cd41d135ab05557",
+          "!bp_385b380a81d941baac49e56cb7123085"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_c1f309f9c3e54f019bac7485fa5d2e6d",
+          "!bp_946b4ecd52904a07bb4984bc112c7e76"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_946b4ecd52904a07bb4984bc112c7e76",
+          "!bp_2b1f502ae314466097a1541c3d2efe25"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_957644aa4c324b099cd41d135ab05557",
+          "!bp_385b380a81d941baac49e56cb7123085"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_c1f309f9c3e54f019bac7485fa5d2e6d",
+          "!bp_2b1f502ae314466097a1541c3d2efe25"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_946b4ecd52904a07bb4984bc112c7e76",
+          "!bp_2b1f502ae314466097a1541c3d2efe25"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_2b1f502ae314466097a1541c3d2efe25",
+          "!bp_385b380a81d941baac49e56cb7123085"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_c1f309f9c3e54f019bac7485fa5d2e6d",
+          "!bp_2b1f502ae314466097a1541c3d2efe25"
+        ]
+      }
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_a09ebb084bb846898e25f855be0e7e53"
+        ]
+      },
+      "InsertAfterTarget": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_2b1f502ae314466097a1541c3d2efe25",
+          "!bp_385b380a81d941baac49e56cb7123085"
+        ]
+      }
+    },
+    {
+      "PatchType": "RemoveFromEnd",
+      "Target": {
+        "m_Features": [],
+        "m_Selections": [
+          "!bp_a09ebb084bb846898e25f855be0e7e53"
+        ]
+      }
+    }
+  ]
+}
