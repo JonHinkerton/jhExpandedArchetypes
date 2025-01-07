@@ -1,136 +1,148 @@
 {
-  "strings": {
-    "c8a7943c-d317-45c7-a01d-0b5498e1d8ea": {
-      "Text": "Désengager"
-    },
-    "36c928a1-e769-4ce3-916e-6ba035e151e4": {
-      "Text": "L'opérateur se déplace jusqu'à 3 cases sans provoquer d'attaques d'opportunité et devient la cible prioritaire la plus basse pour les adversaires. Utiliser cette capacité met fin au mouvement de l'opérateur pour le tour."
-    },
-    "41f37936-20e5-4ec9-8e37-1246fffd3b96": {
-      "Text": "Cible marquée"
-    },
-    "91418397-dd85-41b7-9279-92242bfdd7fd": {
-      "Text": "Lorsque toutes les piles d'exploitation seraient retirées par une capacité, une pile d'exploitation restera."
-    },
-    "af7f4d8d-55d1-4310-b1a7-ed94dd2c1ab2": {
-      "Text": "Disparition"
-    },
-    "9f23de27-0cce-469d-b7ab-c30d5226abcb": {
-      "Text": "Lorsque l'opérateur utilise le spot parfait, il devient la cible prioritaire la plus basse pour les ennemis."
-    },
-    "aa771d30-f371-4bf7-b55a-0f66f4eacbc4": {
-      "Text": "Coup dans le dos"
-    },
-    "013ae2c9-39c9-4eca-bb35-61ab418cf934": {
-      "Text": "Après qu'un opérateur soit devenu la cible prioritaire la plus basse, il gagne +10% de dégâts pour le reste du tour."
-    },
-    "621f8481-8b66-4ca1-8361-86ee685ca0aa": {
-      "Text": "Coup de crosse"
-    },
-    "6729cd2f-21da-4488-b74b-22c04380ec78": {
-      "Text": "Le soldat effectue une attaque au corps à corps avec une arme à distance, infligeant des dégâts spécifiés {uip|Damage|22d6c1b32a6d47f4899a370e28cf16f9} {g|Encyclopedia:DamageGlossary} au lieu des dégâts d'arme et peut potentiellement repousser la cible d'une case. Cette attaque ne compte pas dans la limite d'attaques par tour."
-    },
-    "3b779166-1be2-488b-a1cb-834379b119ad": {
-      "Text": "Balayage de rue"
-    },
-    "04ee52b7-c43e-4c95-b062-cbaf73f06547": {
-      "Text": "Les tirs de fusil à pompe du guerrier repoussent les cibles même s'ils manquent."
-    },
-    "102daa5c-54f4-459b-b691-3815ae613b17": {
-      "Text": "Coup de ventre"
-    },
-    "fcc89cbd-aac7-45f1-a400-b238fd3b348a": {
-      "Text": "Toutes les attaques de fusil à pompe du guerrier contre des ennemis adjacents touchent automatiquement."
-    },
-    "6158b4e7-0e05-4e72-a4bb-dbd6f86d15a5": {
-      "Text": "Pousser Tirer"
-    },
-    "51d032a2-69ba-47bc-ac5b-7f0a3e92d06a": {
-      "Text": "Le coût des attaques du guerrier avec un fusil à pompe est réduit de -1 PA"
-    },
-    "38439013-bc79-4a94-b47e-a1bc949c9f95": {
-      "Text": "Coup de crosse"
-    },
-    "12430c89-2d4f-49d4-8ece-daf1c7a4659b": {
-      "Text": "Utiliser un coup de crosse avec une arme à deux mains inflige 50% de dégâts supplémentaires."
-    },
-    "99fc5a04-190a-4549-a048-eb294a0f0b7a": {
-      "Text": "Des actes, pas des mots"
-    },
-    "1b8f61ad-f9a1-4574-815a-cb4e667b9145": {
-      "Text": "L'officier augmente tous les attributs par deux fois leur bonus de camaraderie jusqu'à la fin du tour."
-    },
-    "258cd524-6784-40ff-acaf-6ce66980af3e": {
-      "Text": "Audace"
-    },
-    "54f4cb6f-e044-40d5-a88c-65f66263c2a6": {
-      "Text": "Si la camaraderie de l'officier est supérieure à son agilité, son esquive sera calculée à partir de la camaraderie."
-    },
-    "49fc1b27-6b06-4a26-8292-778058d9522b": {
-      "Text": "Protégé par le courage"
-    },
-    "5e09004b-516a-49ec-bf79-88fd1e78d923": {
-      "Text": "Lorsque l'officier utilise Des actes, pas des mots, il gagne également +10% d'armure."
-    },
-    "9409a95b-eec6-4dcc-a195-b83de2719bdc": {
-      "Text": "Guide ma main"
-    },
-    "e21f8416-abba-48c4-abec-fc7012a71313": {
-      "Text": "Sous l'effet de Des actes, pas des mots, les attaques de l'officier ne peuvent pas manquer."
-    },
-    "fcc0019a-240e-44b6-b9c1-969eb034f47f": {
-      "Text": "Conflagration"
-    },
-    "fd93ef92-60d3-4e84-a5ee-4a182e40d4ae": {
-      "Text": "Les ennemis touchés par les attaques de flamme et de melta du guerrier subissent des niveaux supplémentaires de brûlure équivalents au bonus de compétence balistique."
-    },
-    "43b89354-1d6a-42b6-8855-3662cf9023a9": {
-      "Text": "Pyromane"
-    },
-    "5f399f87-e123-4be5-beb0-89bed9ca941e": {
-      "Text": "Lorsque le guerrier utilise une arme de flamme ou melta pour la première fois dans un tour, il gagne +1 PA."
-    },
-    "f4156b64-220a-48aa-8b95-ad68a8e96b62": {
-      "Text": "Flammes enveloppantes"
-    },
-    "fc2f1ba5-c525-469b-b287-4802d8aedde6": {
-      "Text": "Les attaques de flamme et melta du guerrier gagnent un minimum de dégâts égal à la moitié du bonus de compétence balistique."
-    },
-    "df87b88d-00a5-490f-9f41-09152d419b37": {
-      "Text": "Carburant pour le feu"
-    },
-    "b1fd07a1-17b7-4c09-b179-77d4d35e4634": {
-      "Text": "Toutes les cibles enflammées dans un rayon de 2 cases du guerrier subissent un épisode de dégâts de brûlure."
-    },
-    "a154e728-6bba-4033-9f63-151aeb8cb3e1": {
-      "Text": "Balayage"
-    },
-    "068e131d-6760-44b2-9b05-f274fb53f5d3": {
-      "Text": "La cible adjacente doit réussir un jet de sauvegarde de robustesse avec une pénalité égale à deux fois le bonus de force du combattant ou tomber à terre."
-    },
-    "d9a0851e-d8c9-403a-b670-382ee3e6dde0": {
-      "Text": "Sans lunette"
-    },
-    "a33d9b90-9176-4d5f-bb48-ec047c157b0f": {
-      "Text": "Le coût d'un tir de précision est réduit de -1 PA"
-    },
-    "1ffd7b1d-f9bd-49cc-9e83-001b07e5a61f": {
-      "Text": "Feu suppressif"
-    },
-    "9337ca1a-6160-4f87-98c1-0e01e4dfdc29": {
-      "Text": "Les cibles touchées par les attaques d'arme lourde du soldat sont ralenties."
-    },
-    "8c4f5406-dede-4161-b7b2-9ffb3298d1ca": {
-      "Text": "Bouclier d'arme"
-    },
-    "fd78b915-8531-417c-9c06-00f8d9c3b89c": {
-      "Text": "En maniant une arme lourde, le soldat gagne +10 en armure."
-    },
-    "0423fd7a-e136-46ac-9907-251ace3397a2": {
-      "Text": "Pirate du Noosphère"
-    },
-    "13fa01c3-28a6-4a1b-8243-e6db37619406": {
-      "Text": "L'opérateur gagne +10 en Utilisation de Technologie et en Logique."
+    "strings": {
+        "c8a7943c-d317-45c7-a01d-0b5498e1d8ea": {
+            "Text": "Désengager"
+        },
+        "36c928a1-e769-4ce3-916e-6ba035e151e4": {
+            "Text": "L'Opérateur se déplace jusqu'à 3 cases sans provoquer d'attaques d'opportunité et devient la cible de priorité la plus basse pour les adversaires. Utiliser cette capacité termine le déplacement de l'Opérateur pour le tour."
+        },
+        "41f37936-20e5-4ec9-8e37-1246fffd3b96": {
+            "Text": "Cible Marquée"
+        },
+        "91418397-dd85-41b7-9279-92242bfdd7fd": {
+            "Text": "Lorsque toutes les charges d'exploitation seraient retirées par une capacité, une charge d'exploitation restera."
+        },
+        "af7f4d8d-55d1-4310-b1a7-ed94dd2c1ab2": {
+            "Text": "Disparaître"
+        },
+        "9f23de27-0cce-469d-b7ab-c30d5226abcb": {
+            "Text": "Quand l'Opérateur utilise le point parfait, il devient la cible de priorité la plus basse pour les ennemis."
+        },
+        "aa771d30-f371-4bf7-b55a-0f66f4eacbc4": {
+            "Text": "Coup dans le Dos"
+        },
+        "013ae2c9-39c9-4eca-bb35-61ab418cf934": {
+            "Text": "Après qu'un Opérateur soit devenu la cible de priorité la plus basse, il gagne +10 % de dégâts pour le reste du tour."
+        },
+        "621f8481-8b66-4ca1-8361-86ee685ca0aa": {
+            "Text": "Coup de Pistolet"
+        },
+        "6729cd2f-21da-4488-b74b-22c04380ec78": {
+            "Text": "Le Soldat effectue une attaque au corps à corps avec une arme à distance, infligeant {uip|Dégâts|22d6c1b32a6d47f4899a370e28cf16f9} {g|Encyclopédie:DégâtsGlossaire}dégâts{/g} au lieu des dégâts de l'arme et pouvant laisser l'adversaire étourdi. Cette attaque ne compte pas dans la limite d'attaques par tour."
+        },
+        "3b779166-1be2-488b-a1cb-834379b119ad": {
+            "Text": "Balayeuse de Rue"
+        },
+        "04ee52b7-c43e-4c95-b062-cbaf73f06547": {
+            "Text": "Les tirs de fusil à pompe du Soldat repoussent les cibles même s'ils manquent."
+        },
+        "102daa5c-54f4-459b-b691-3815ae613b17": {
+            "Text": "Tir dans le Ventre"
+        },
+        "fcc89cbd-aac7-45f1-a400-b238fd3b348a": {
+            "Text": "Tous les tirs de fusil à pompe du Soldat contre des ennemis adjacents touchent automatiquement."
+        },
+        "6158b4e7-0e05-4e72-a4bb-dbd6f86d15a5": {
+            "Text": "Pousser Tirer"
+        },
+        "51d032a2-69ba-47bc-ac5b-7f0a3e92d06a": {
+            "Text": "Le coût des attaques du Soldat avec un fusil à pompe est réduit de -1 PA"
+        },
+        "38439013-bc79-4a94-b47e-a1bc949c9f95": {
+            "Text": "Coup de Crosse"
+        },
+        "12430c89-2d4f-49d4-8ece-daf1c7a4659b": {
+            "Text": "Utiliser Coup de Pistolet avec une arme à deux mains inflige 50% de dégâts supplémentaires."
+        },
+        "99fc5a04-190a-4549-a048-eb294a0f0b7a": {
+            "Text": "Des Actes, Pas des Mots"
+        },
+        "1b8f61ad-f9a1-4574-815a-cb4e667b9145": {
+            "Text": "L'Officier augmente tous les attributs de deux fois leur Bonus de Camaraderie jusqu'à la fin du tour."
+        },
+        "258cd524-6784-40ff-acaf-6ce66980af3e": {
+            "Text": "Audace"
+        },
+        "54f4cb6f-e044-40d5-a88c-65f66263c2a6": {
+            "Text": "Si la Camaraderie de l'Officier est plus élevée que son Agilité, son Esquive sera calculée à partir de la Camaraderie."
+        },
+        "49fc1b27-6b06-4a26-8292-778058d9522b": {
+            "Text": "Protégé par le Courage"
+        },
+        "5e09004b-516a-49ec-bf79-88fd1e78d923": {
+            "Text": "Quand l'Officier utilise Des Actes, Pas des Mots, il gagne également +10% d'armure."
+        },
+        "9409a95b-eec6-4dcc-a195-b83de2719bdc": {
+            "Text": "Guide Ma Main"
+        },
+        "e21f8416-abba-48c4-abec-fc7012a71313": {
+            "Text": "Sous l'effet de Des Actes, Pas des Mots, les attaques de l'Officier ne peuvent pas manquer."
+        },
+        "fcc0019a-240e-44b6-b9c1-969eb034f47f": {
+            "Text": "Conflagration"
+        },
+        "fd93ef92-60d3-4e84-a5ee-4a182e40d4ae": {
+            "Text": "Les ennemis touchés par les attaques de Flamme et Melta du Guerrier subissent des niveaux supplémentaires de Brûlure égaux au Bonus de Compétence Balistique."
+        },
+        "43b89354-1d6a-42b6-8855-3662cf9023a9": {
+            "Text": "Pyromane"
+        },
+        "5f399f87-e123-4be5-beb0-89bed9ca941e": {
+            "Text": "Lorsque le Guerrier utilise une arme de Flamme ou Melta pour la première fois dans un tour, il gagne +1 PA."
+        },
+        "f4156b64-220a-48aa-8b95-ad68a8e96b62": {
+            "Text": "Flammes Englobantes"
+        },
+        "fc2f1ba5-c525-469b-b287-4802d8aedde6": {
+            "Text": "Les attaques de Flamme et Melta du Guerrier gagnent un minimum de dégâts égal à la moitié du Bonus de Compétence Balistique."
+        },
+        "df87b88d-00a5-490f-9f41-09152d419b37": {
+            "Text": "Carburant pour le Feu"
+        },
+        "b1fd07a1-17b7-4c09-b179-77d4d35e4634": {
+            "Text": "Toutes les cibles enflammées à moins de 2 cases du Guerrier subissent une instance de dégâts de brûlure."
+        },
+        "a154e728-6bba-4033-9f63-151aeb8cb3e1": {
+            "Text": "Balayage"
+        },
+        "068e131d-6760-44b2-9b05-f274fb53f5d3": {
+            "Text": "Une cible adjacente doit réussir un test de robustesse avec une pénalité égale au double du bonus de force du combattant ou tomber à terre."
+        },
+        "d9a0851e-d8c9-403a-b670-382ee3e6dde0": {
+            "Text": "Sans Lunette"
+        },
+        "a33d9b90-9176-4d5f-bb48-ec047c157b0f": {
+            "Text": "Le coût d'un Tir de Précision est réduit de -1 PA"
+        },
+        "1ffd7b1d-f9bd-49cc-9e83-001b07e5a61f": {
+            "Text": "Feu Suppressif"
+        },
+        "9337ca1a-6160-4f87-98c1-0e01e4dfdc29": {
+            "Text": "Les cibles touchées par les attaques d'arme lourde du Soldat sont ralenties."
+        },
+        "8c4f5406-dede-4161-b7b2-9ffb3298d1ca": {
+            "Text": "Grosses Armes"
+        },
+        "fd78b915-8531-417c-9c06-00f8d9c3b89c": {
+            "Text": "En maniant une arme lourde, le Soldat gagne +10 d'armure."
+        },
+        "0423fd7a-e136-46ac-9907-251ace3397a2": {
+            "Text": "Hacker Noosphérique"
+        },
+        "13fa01c3-28a6-4a1b-8243-e6db37619406": {
+            "Text": "L'Opérateur gagne +10 en Utilisation Technique et Logique."
+        },
+        "0220d10e-cf62-43f2-89f9-84828701b6a0": {
+            "Text": "Trancher À Travers"
+        },
+        "8abfeea6-c834-4fb6-8d94-a98c90860f26": {
+            "Text": "Tuer une cible avec une arme à deux mains inflige 50% de dégâts à un autre ennemi à moins de 1 case de la cible."
+        },
+        "4596804d-f9d0-43f8-b98e-c66f1f5e635c": {
+            "Text": "Frappe sur la Tête"
+        },
+        "5c0c64e8-9c40-48b6-80a7-74aef949a56b": {
+            "Text": "Les coups critiques avec des armes à deux mains ont une pénétration d'armure supplémentaire de 10%."
+        }
     }
-  }
 }

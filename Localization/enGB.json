@@ -28,7 +28,7 @@
             "Text": "Pistol Whip"
         },
 		"6729cd2f-21da-4488-b74b-22c04380ec78": {
-            "Text": "The Soldier makes a melee attack with a ranged weapon, dealing {uip|Damage|22d6c1b32a6d47f4899a370e28cf16f9} {g|Encyclopedia:DamageGlossary}damage{/g} instead of weapon damage and possibly pushing them back 1 square. This attack does not count toward the attack limit per turn."
+            "Text": "The Soldier makes a melee attack with a ranged weapon, dealing {uip|Damage|22d6c1b32a6d47f4899a370e28cf16f9} {g|Encyclopedia:DamageGlossary}damage{/g} instead of weapon damage and possibly leaving them stunned. This attack does not count toward the attack limit per turn."
         },
 		"3b779166-1be2-488b-a1cb-834379b119ad": {
             "Text": "Street Sweeper"
@@ -133,7 +133,7 @@
             "Text": "The Operative gains +10 to Tech Use and Logic."
         },
         "0220d10e-cf62-43f2-89f9-84828701b6a0": {
-            "Text": "Cleave"
+            "Text": "Cleave Through"
         },
         "8abfeea6-c834-4fb6-8d94-a98c90860f26": {
             "Text": "Killing a target with a two handed weapon causes 50% damage to another enemy within 1 cell of the target."
@@ -142,7 +142,7 @@
             "Text": "Overhead Smash"
         },
         "5c0c64e8-9c40-48b6-80a7-74aef949a56b": {
-            "Text": "Critical hits with two handed weapons deal an additional 10% armor penetration."
+            "Text": "Critical hits with two handed weapons have an additional 10% armor penetration."
         }
     }
 }

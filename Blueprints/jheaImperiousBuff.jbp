@@ -14,6 +14,14 @@
           "name": ""
         },
         "m_Overrides": [],
+        "Restrictions": {
+          "Property": {
+            "Operation": "Sum",
+            "TargetType": "CurrentEntity",
+            "FailSilentlyIfNoTarget": false,
+            "Getters": []
+          }
+        },
         "BonusDeflectionValue": {
           "ValueType": "Simple",
           "Value": 0,
@@ -48,14 +56,14 @@
     "Author": "AlexanderGusev",
     "Comment": "",
     "m_DisplayName": {
-      "m_Key": "",
+      "m_Key": "49fc1b27-6b06-4a26-8292-778058d9522b",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
       "Shared": null
     },
     "m_Description": {
-      "m_Key": "",
+      "m_Key": "5e09004b-516a-49ec-bf79-88fd1e78d923",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
@@ -78,7 +86,7 @@
     "Initiative": "ByCaster",
     "Ranks": 0,
     "FxOnStart": {
-      "AssetId": "ed6e3fc094d7e9846a19d010b5eb56d1"
+      "AssetId": ""
     },
     "FxOnRemove": {
       "AssetId": ""
