@@ -19,8 +19,8 @@ MonoBehaviour:
   - Guid: c8b1b420e52c46699781bf2789e9905c
     Filename: Adept_ExposeWeakness_SubAbility
     PatchType: 2
-  - Guid: bca05f1815dc49ed870306461a4cd686
-    Filename: Adept_SnipingSHot_Buff
+  - Guid: d0f95ed472d542579026e8a8b8eb2bab
+    Filename: Adept_SnipingSHot_Ability
     PatchType: 2
   - Guid: 974496d72fbe4329b438ee15cf004bd2
     Filename: FighterCareerPath

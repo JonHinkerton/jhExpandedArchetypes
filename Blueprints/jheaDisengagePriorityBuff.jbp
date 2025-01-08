@@ -34,7 +34,7 @@
     },
     "m_Icon": null,
     "m_AllowNonContextActions": false,
-    "m_Flags": "HiddenInUi, NeedsNoVisual",
+    "m_Flags": "HiddenInUi",
     "m_SoundTypeSwitch": {
       "Value": "",
       "Group": ""
@@ -43,13 +43,13 @@
       "Value": "",
       "Group": ""
     },
-    "Stacking": "Replace",
+    "Stacking": "Stack",
     "ProlongWhenRankAdded": false,
     "PriorityProperty": "Value1",
     "Initiative": "ByCaster",
     "Ranks": 0,
     "FxOnStart": {
-      "AssetId": "ed6e3fc094d7e9846a19d010b5eb56d1"
+      "AssetId": ""
     },
     "FxOnRemove": {
       "AssetId": ""
