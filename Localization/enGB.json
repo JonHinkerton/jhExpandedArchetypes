@@ -4,19 +4,19 @@
             "Text": "Disengage"
         },
 		"36c928a1-e769-4ce3-916e-6ba035e151e4": {
-            "Text": "The Operator moves up to 3 squares without provoking attacks of opportunity and becomes the lowest priority target for opponents. Using this ability ends the Operator's movement for the turn."
+            "Text": "The Operator moves up to 3 squares without provoking attacks of opportunity and becomes the lowest priority target for opponents for one turn. Using this ability ends the Operator's movement for the turn."
         },
 		"41f37936-20e5-4ec9-8e37-1246fffd3b96": {
             "Text": "Marked Target"
         },
 		"91418397-dd85-41b7-9279-92242bfdd7fd": {
-            "Text": "When all exploit stacks would be removed by an ability, one exploit stack will remain."
+            "Text": "When all exploit stacks would be removed by Expose Weakness, one exploit stack will remain."
         },
 		"af7f4d8d-55d1-4310-b1a7-ed94dd2c1ab2": {
             "Text": "Vanish"
         },
 		"9f23de27-0cce-469d-b7ab-c30d5226abcb": {
-            "Text": "When the Operator uses perfect spot they become the lowest priority target for enemies."
+            "Text": "When the Operator uses perfect spot they become the lowest priority target for enemies for one turn."
         },
 		"aa771d30-f371-4bf7-b55a-0f66f4eacbc4": {
             "Text": "Backstab"
