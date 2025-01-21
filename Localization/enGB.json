@@ -34,7 +34,7 @@
             "Text": "Street Sweeper"
         },
 		"04ee52b7-c43e-4c95-b062-cbaf73f06547": {
-            "Text": "The Soldier's shotgun shots push back targets even if they miss."
+            "Text": "The Soldier's shotgun shots force targets to resist being pushed even if they miss."
         },
 		"102daa5c-54f4-459b-b691-3815ae613b17": {
             "Text": "Gut Shot"
@@ -142,7 +142,7 @@
             "Text": "Overhead Smash"
         },
         "5c0c64e8-9c40-48b6-80a7-74aef949a56b": {
-            "Text": "Critical hits with two handed weapons have an additional 10% armor penetration."
+            "Text": "Hits with two handed weapons have an additional 10% armor penetration."
         }
     }
 }

@@ -29,7 +29,15 @@
     "Ranks": 1,
     "Prerequisites": {
       "Composition": "And",
-      "List": []
+      "List": [
+        {
+          "$type": "40a1bdb738834fb69a296a2677235b35, PrerequisiteFact",
+          "name": "$PrerequisiteFact$da4f77798a2740b3bf9624706cb4b46d",
+          "Not": false,
+          "m_Fact": "!bp_d113811dde54446989ea0c431dfa816b",
+          "MinRank": 0
+        }
+      ]
     },
     "FeatureTypes": [],
     "TalentIconInfo": {

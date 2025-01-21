@@ -14,20 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Entries:
   - Guid: 1529e5a0e7844bf3bb8d0cc0501264d4
-    Filename: AdeptCareerPath
+    Filename: AdeptCareerPath.patch
     PatchType: 2
   - Guid: c8b1b420e52c46699781bf2789e9905c
-    Filename: Adept_ExposeWeakness_SubAbility
+    Filename: Adept_ExposeWeakness_SubAbility.patch
     PatchType: 2
   - Guid: d0f95ed472d542579026e8a8b8eb2bab
-    Filename: Adept_SnipingSHot_Ability
+    Filename: Adept_SnipingSHot_Ability.patch
     PatchType: 2
   - Guid: 974496d72fbe4329b438ee15cf004bd2
-    Filename: FighterCareerPath
+    Filename: FighterCareerPath.patch
     PatchType: 2
   - Guid: 33725d84e95e4323ac46d8fbf899b250
-    Filename: LeaderCareerPath
+    Filename: LeaderCareerPath.patch
     PatchType: 2
   - Guid: 06f4f78a9c1a472b85cd79a9a142153d
-    Filename: SoldierCareerPath
+    Filename: SoldierCareerPath.patch
     PatchType: 2

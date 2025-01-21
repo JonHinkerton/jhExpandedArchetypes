@@ -7,7 +7,7 @@
     "Components": [
       {
         "$type": "67bd9d5235e74484bb1d673b885ab430, WarhammerWeaponHitTriggerInitiator",
-        "name": "$WarhammerWeaponHitTriggerInitiator$d7cd6d90-3867-424b-8fbd-b90bff81da31",
+        "name": "$WarhammerWeaponHitTriggerInitiator$cab250b6-4238-4b49-ac73-5ad49540476b",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -16,63 +16,13 @@
         "m_Overrides": [],
         "Restrictions": {
           "Property": {
-            "Operation": "Sum",
+            "Operation": "And",
             "TargetType": "CurrentEntity",
             "FailSilentlyIfNoTarget": false,
             "Getters": [
               {
-                "$type": "88a988badcc84ea8847e21626bee82e5, PropertyCalculatorGetter",
-                "name": "$PropertyCalculatorGetter$24a3c3d0c0e940b391edf83a4ddb5e19",
-                "Settings": {
-                  "Progression": "AsIs",
-                  "m_CustomProgression": [],
-                  "m_StartLevel": 0,
-                  "m_StepLevel": 0,
-                  "Negate": false,
-                  "Limit": "None",
-                  "Min": 0,
-                  "Max": 0
-                },
-                "Value": {
-                  "Operation": "LE",
-                  "TargetType": "CurrentEntity",
-                  "FailSilentlyIfNoTarget": false,
-                  "Getters": [
-                    {
-                      "$type": "8cc2fc2a697041af82344696abdf3c4d, DistanceGetter",
-                      "name": "$DistanceGetter$968b145b-6bbb-4c65-b85b-da3430c33ceb",
-                      "Settings": {
-                        "Progression": "AsIs",
-                        "m_CustomProgression": [],
-                        "m_StartLevel": 0,
-                        "m_StepLevel": 0,
-                        "Negate": false,
-                        "Limit": "None",
-                        "Min": 0,
-                        "Max": 0
-                      },
-                      "Target": "RuleTarget"
-                    },
-                    {
-                      "$type": "1d97120646e407b4d83d019aa7138928, AbilityWeaponMaxDistanceGetter",
-                      "name": "$AbilityWeaponMaxDistanceGetter$74eee1a6-41f4-420c-8f94-1cbb4bdf1d37",
-                      "Settings": {
-                        "Progression": "Div2",
-                        "m_CustomProgression": [],
-                        "m_StartLevel": 0,
-                        "m_StepLevel": 0,
-                        "Negate": false,
-                        "Limit": "None",
-                        "Min": 0,
-                        "Max": 0
-                      }
-                    }
-                  ]
-                }
-              },
-              {
                 "$type": "622b2e3118c34edebe1597cf4c03339e, CheckAbilityBlueprintGetter",
-                "name": "$CheckAbilityBlueprintGetter$4530b095dfaf4e77980174b015928b55",
+                "name": "$CheckAbilityBlueprintGetter$7a3b9131-52da-457b-bc94-0f25d89c64dd",
                 "Settings": {
                   "Progression": "AsIs",
                   "m_CustomProgression": [],
@@ -90,20 +40,6 @@
                   "!bp_160d6a1414d043598bedb261577a24e0",
                   "!bp_c39ff72671eb48bbafde513d8ac208c7"
                 ]
-              },
-              {
-                "$type": "3584620744644ad6932525e79c8ca8e6, CheckAbilityWeaponIsSourceOfFactGetter",
-                "name": "$CheckAbilityWeaponIsSourceOfFactGetter$5a22d5dd53694f6d9934e9afe5adaf3b",
-                "Settings": {
-                  "Progression": "AsIs",
-                  "m_CustomProgression": [],
-                  "m_StartLevel": 0,
-                  "m_StepLevel": 0,
-                  "Negate": false,
-                  "Limit": "None",
-                  "Min": 0,
-                  "Max": 0
-                }
               }
             ]
           }
@@ -118,10 +54,10 @@
           "Actions": [
             {
               "$type": "d5debd59683c7064fa9393bd52c9a624, ContextActionPush",
-              "name": "$ContextActionPush$10f72ae6-cc30-49b3-a4ca-158ece6cf7e8",
+              "name": "$ContextActionPush$ea81f8cb-8345-4c85-bb28-9ffe9e41ee47",
               "Cells": {
                 "ValueType": "Simple",
-                "Value": 3,
+                "Value": 2,
                 "ValueRank": "Default",
                 "ValueShared": "Damage",
                 "Property": "None",
@@ -137,10 +73,10 @@
           "Actions": [
             {
               "$type": "d5debd59683c7064fa9393bd52c9a624, ContextActionPush",
-              "name": "$ContextActionPush$a19d8e31-9d9a-4488-a714-371e3a307d63",
+              "name": "$ContextActionPush$3d0f0f4999c84e0b860fbedccfd69259",
               "Cells": {
                 "ValueType": "Simple",
-                "Value": 3,
+                "Value": 2,
                 "ValueRank": "Default",
                 "ValueShared": "Damage",
                 "Property": "None",
